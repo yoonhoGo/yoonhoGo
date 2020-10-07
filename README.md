@@ -4,6 +4,7 @@
 [![Tweeting](https://img.shields.io/twitter/follow/yoonho_go?style=social)](https://twitter.com/yoonho_go)
 [![Instagram](https://img.shields.io/badge/instagram-ynh_g-default?logo=instagram&style=social)](https://instagram.com/ynh_g)
 [![Facebook](https://img.shields.io/badge/facebook-goyoonho-default?logo=facebook&style=social)](https://facebook.com/goyoonho)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-고윤호-default?style=social&logo=Linkedin&link=https://www.linkedin.com/in/%EC%9C%A4%ED%98%B8-%EA%B3%A0-006099161/)](https://www.linkedin.com/in/%EC%9C%A4%ED%98%B8-%EA%B3%A0-006099161/)
 [![Gmail](https://img.shields.io/badge/gmail-lylisha@gmail.com-default?style=social&logo=gmail&link=mailto:lylisha@gmail.com)](mailto:lylisha@gmail.com)
 
 정보보안을 기초로하여 인프라 및 운용 시스템 보안을 개발하고 싶다는 비전을 가지고 있습니다. 특히, 지난 세대의 서버 운용에서 벗어나 현대의 트렌드에 발맞춘 모던 서버 개발에 관심이 많습니다. 빠른 개발, 안정적인 운영, 지속적이고 유연한 유지관리를 개발 철학으로 생각하고 있습니다.
