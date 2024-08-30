@@ -20,4 +20,4 @@ _HTML, Python은 왜이렇게 많은걸까요? 난 Typescript 주력 개발자�
 <img src="https://github-readme-stats.vercel.app/api?username=yoonhoGo&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yoonhoGo&layout=compact&theme=gruvbox" />
 
-### If you want more to know me, Please visit [my homepage](https://yoonhoGo.github.io)
+### If you want more to know me, Please visit [My homepage](https://yoonho.site), [blog](https://yoonho.site/blog) and [notes](https://notes.yoonho.site/)
